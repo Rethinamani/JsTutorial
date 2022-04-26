@@ -8,4 +8,5 @@ for(let i = 1; i<= 3; i++){
     }
     a += 2;
     document.write("<br>");
+    console.log("Hello");
 }
