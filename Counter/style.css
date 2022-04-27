@@ -1,0 +1,36 @@
+.container{
+    width: 600px;
+    height: 500px;
+    border: 10px black;
+    background: rgb(218, 235, 238);
+    box-sizing: border-box;
+    margin: 30px 400px;    
+}
+#counter{
+    color: rgb(23, 23, 54);
+    font-size: 1000%;
+    font-weight: 100%;
+    text-align: center;
+}
+#number{
+    color: black;
+    font-size: 500%;
+    font-weight: bold;
+    text-align: center;
+}
+.buttons{
+    padding-inline-start: 100px;
+    margin-top: 100px;
+    align-items: center;
+}
+button{
+    border: 20px solid-black;
+    border-width: 5px;
+    margin: 20px;
+    font-size: large;
+    border-color: rgb(41, 24, 114);
+}
+button:hover{
+    border-color: brown;
+    color: blueviolet;
+}
